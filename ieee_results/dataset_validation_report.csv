@@ -1,0 +1,7 @@
+,missing_values,data_type
+date,0,datetime64[us]
+AWND,15,float64
+PRCP,0,float64
+TMAX,0,float64
+TMIN,0,float64
+daily_consumption,0,float64
